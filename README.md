@@ -4,7 +4,7 @@ An affordable and easy-to-make filtered LNA.
 ## Getting a board to modify
 It's much easier to modify and repurpose a factory LNA pcb than to fully make your own.
 We are going to focus on modifying a double-filtered chinese ADS-B LNA, as they are reasonably priced and simple enough to modify. As a bonus you can get a version with a robust, aluminium enclosure, that contains the same PCB.
-Search "ADS-B LNA" on AliExpress and you are likely to find it in the top results.
+Search "ADS-B LNA" on AliExpress and you are likely to find it in the top results. I do not recommend getting a bare PCB.
 
 ![](pictures/ADS-B_LNA.jpg)
 
