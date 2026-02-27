@@ -9,7 +9,7 @@ Search "ADS-B LNA" on AliExpress and you are likely to find it in the top result
 ![](pictures/ADS-B_LNA.jpg)
 
 ## Other components
-You'll also need SAW filters of your choice (I'm using a TA0700A for S-Band); if you want to also power the LNA with bias tee, you will also want a SMT inductor (220-2200nH works fine for L and S-band) and a poly fuse (200-250mA) - Soldering supplies like decent flux and solder of your choice are necessary. I recommend using some UV soldermask for the bias-t modification and conformal coating the board after the changes have been made.
+You'll also need SAW filters of your choice (I'm using TA0700A for S-Band); if you want to also power the LNA with bias tee, you will also need a SMT inductor (220-2200nH works fine for L and S-band) and a poly fuse (200-250mA). Soldering supplies like decent flux and solder of your choice are necessary. I also recommend using some UV soldermask for the bias-t modification and conformal coating the board after the changes have been made.
 
 ## Disassembly & prep
 If you have one with an enclosure, remove all the screws you can see (4x countersunk M2.5 to remove the lid, 4x M2.5 for the SMAs, and 4x M2 to remove the board).
