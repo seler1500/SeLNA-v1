@@ -57,8 +57,8 @@ Here are some results from a variety of LNAs I made using these steps-
 
 S-band with TA0700a filters:
 
-![](pictures/2250-S11.bmp)
-![](pictures/2250-S21.bmp)
+![](pictures/2250-S11.png)
+![](pictures/2250-S21.png)
 
 S-band with TA0700a filters and PGA-103+ 1st stage:
 
@@ -67,13 +67,13 @@ S-band with TA0700a filters and PGA-103+ 1st stage:
 
 L-band with TA2727AA3112 filters:
 
-![](pictures/S11-1702-5.bmp)
-![](pictures/1702_5-S21.bmp)
+![](pictures/S11-1702-5.png)
+![](pictures/1702_5-S21.png)
 
 L-band with TA1583A filters - version without the enclosure:
 
-![](pictures/TA1583A-S11.bmp)
-![](pictures/TA1583A-S21-MARK.bmp)
+![](pictures/TA1583A-S11.png)
+![](pictures/TA1583A-S21-MARK.png)
 
 After verifying your LNA performance, you can put a layer of conformal coating on the front of PCB. I also recommend plugging the empty threaded hole for the VCC pass-trough with a M2.5 screw.
 You can also seal the enclosure with silicone sealant. I recommend applying it under the SMAs as well. Degrease the mating surfaces first:
