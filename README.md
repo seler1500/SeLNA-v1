@@ -19,7 +19,7 @@ If you have one with an enclosure, remove all the screws you can see (4x counter
 The next part will be tricky, you need to both melt the solder and unscrew the VCC pass-trough at once. After that you can remove the SMAs by melting the solder and carefully pulling them out. The PCB should now be free; you can clean it up with some isopropyl alcohol and move on to the next step.
 
 ## Replacing the filters
-With the board removed and cleaned, you can now set it on a preheater and warm up to 220-240°C. Apply some flux near the SAW filters (and the MMIC if you'd like to replace the 1st stage) and wait for the solder to melt. Now you can remove the old parts, and carefully place the new components. Once positioned properly, cool down the board and move on to the next steps.
+With the board removed and cleaned, you can now set it on a preheater and warm up to 220-240°C. Apply some flux near the SAW filters (and the MMIC if you'd like to replace the 1st stage) and wait for the solder to melt. Now you can remove the old parts, and carefully place the new components. Once positioned properly, cool down the board, clean up with isopropyl alcohol and move on to the next step.
 
 ![](pictures/filter_swap.jpg)
 
