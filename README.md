@@ -1,4 +1,4 @@
-# SeLNA
+# SeLNA v1
 An affordable and easy-to-make filtered LNA.
 
 ## Getting a board to modify
@@ -86,3 +86,13 @@ Then apply a thin coat of sealant of your choice:
 
 Close the lid and follow the curing procedure for the sealant you've picked.
 NOTE: i do not recommend the L-band versions, unfortunately they don't perform well enough comparing to alternatives (Nooelec Sawbird+ GOES or Digitelektro LNA). They do provide decent filtering, but are still susceptable to 1st stage overload with interference strong enough. PGA-103+ helps with the overloads, but it will never be as good as a setup with a cavity filter.
+
+## Benchmark
+
+SBIRS-GEO satellites are sometimes used to benchmark the setup after assembly, they can be helpful for finetuning the focal point as well. SBIRS-GEO 1 (USA 230) has its S-band downlink at 2262.5 MHz, with OQPSK modulation and symbolrate of 2.5Msym/s. Using modified Metop AHRPT pipeline, we can get a SNR readout for testing purposes.
+
+![](pictures/usa_230_sband_test.jpg)
+
+Here's the SNR with SeLNA v1 (with PGA-103+ 1st stage) on USA 230 using 80cm offset dish and an S-band RHCP helix feed:
+
+![](pictures/SeLNAv1_80cm_usa230.png)
