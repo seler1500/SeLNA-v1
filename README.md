@@ -49,6 +49,9 @@ If you chose not to add a bias tee, make sure to screw the VCC pass-trough back 
 Start with basic continuity tests, and make sure that there are no obvious shorts on the RF or VCC paths. After this is confirmed, you can supply power to your LNA for the first time. Close the lid and make sure that the PCB screws are in, then sweep it with a VNA to see how it performs.
 I'm using the LiteVNA64 with a DC block on port 1, and a 30dB attenuator & bias tee on port 2.
 
+**Note from future me: DON'T MEASURE IT LIKE THIS lol**
+attenuator (30ish dB) on port 1, ideally 6-10dB on port 2 as well
+
 ![](pictures/test_setup.jpg)
 
 This isn't a VNA guide, but make sure to do your calibrations with the VNA disconnected, but with any blocks, filters, injectors, or other components still attached. 
